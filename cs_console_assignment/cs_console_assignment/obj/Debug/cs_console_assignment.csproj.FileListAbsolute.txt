@@ -1,0 +1,6 @@
+C:\Users\jacob\Documents\School\Fall 2016\IS 403\Visual Studio Projects\cs_console_assignment\cs_console_assignment\bin\Debug\cs_console_assignment.exe.config
+C:\Users\jacob\Documents\School\Fall 2016\IS 403\Visual Studio Projects\cs_console_assignment\cs_console_assignment\bin\Debug\cs_console_assignment.exe
+C:\Users\jacob\Documents\School\Fall 2016\IS 403\Visual Studio Projects\cs_console_assignment\cs_console_assignment\bin\Debug\cs_console_assignment.pdb
+C:\Users\jacob\Documents\School\Fall 2016\IS 403\Visual Studio Projects\cs_console_assignment\cs_console_assignment\obj\Debug\cs_console_assignment.csprojResolveAssemblyReference.cache
+C:\Users\jacob\Documents\School\Fall 2016\IS 403\Visual Studio Projects\cs_console_assignment\cs_console_assignment\obj\Debug\cs_console_assignment.exe
+C:\Users\jacob\Documents\School\Fall 2016\IS 403\Visual Studio Projects\cs_console_assignment\cs_console_assignment\obj\Debug\cs_console_assignment.pdb
