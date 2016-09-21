@@ -1,0 +1,6 @@
+C:\Users\jacob\Documents\Visual Studio 2013\Projects\data_structures_assignment\data_structures_assignment\bin\Debug\data_structures_assignment.exe.config
+C:\Users\jacob\Documents\Visual Studio 2013\Projects\data_structures_assignment\data_structures_assignment\bin\Debug\data_structures_assignment.exe
+C:\Users\jacob\Documents\Visual Studio 2013\Projects\data_structures_assignment\data_structures_assignment\bin\Debug\data_structures_assignment.pdb
+C:\Users\jacob\Documents\Visual Studio 2013\Projects\data_structures_assignment\data_structures_assignment\obj\Debug\data_structures_assignment.csprojResolveAssemblyReference.cache
+C:\Users\jacob\Documents\Visual Studio 2013\Projects\data_structures_assignment\data_structures_assignment\obj\Debug\data_structures_assignment.exe
+C:\Users\jacob\Documents\Visual Studio 2013\Projects\data_structures_assignment\data_structures_assignment\obj\Debug\data_structures_assignment.pdb
